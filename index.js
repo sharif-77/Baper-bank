@@ -10,7 +10,7 @@ if (btn!==null) {
       passwordField.value === "1234"
     ) {
       // window.location.href='http://127.0.0.1:5500/bank.html'
-      window.location.href = "bank.html";
+      window.location.href = "/Baper-bank/bank.html";
     } else {
       alert("Wrong input");
     }
